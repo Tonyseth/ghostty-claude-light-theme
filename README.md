@@ -4,7 +4,7 @@ A warm light theme for [Ghostty](https://ghostty.org/) inspired by Claude's crea
 
 This is an unofficial theme and is not affiliated with Anthropic.
 
-![Claude Light preview](assets/preview.svg)
+![Claude Light preview](assets/preview.png)
 
 ## Palette
 
