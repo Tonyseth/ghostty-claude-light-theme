@@ -16,6 +16,8 @@ This is an unofficial theme and is not affiliated with Anthropic.
 | Light card | `#E5DFD2` |
 | Sage | `#BDCEC0` |
 | Deep sage | `#6B8A6F` |
+| Directory blue | `#6F98B2` |
+| Bright directory blue | `#91B8CD` |
 
 ## Install
 
