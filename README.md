@@ -10,14 +10,14 @@ This is an unofficial theme and is not affiliated with Anthropic.
 
 | Role | Hex |
 | --- | --- |
-| Background | `#EFEAE0` |
-| Foreground | `#1A1A1A` |
-| Accent orange | `#CD6F47` |
-| Light card | `#E5DFD2` |
-| Sage | `#BDCEC0` |
-| Deep sage | `#6B8A6F` |
-| Directory blue | `#6F98B2` |
-| Bright directory blue | `#91B8CD` |
+| Background | `#FAF9F5` |
+| Foreground | `#141413` |
+| Accent orange | `#D97757` |
+| Anthropic tan | `#D4A27F` |
+| Warm gray | `#E8E0D8` |
+| Sage | `#788C5D` |
+| Directory blue | `#6A9BCC` |
+| Bright directory blue | `#8CB6DA` |
 
 ## Install
 
@@ -67,7 +67,7 @@ background-blur-radius = 16
 window-padding-x = 12
 window-padding-y = 8
 window-padding-balance = true
-split-divider-color = #CD6F47
+split-divider-color = #D97757
 ```
 
 ## Tested With
